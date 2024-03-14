@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aiyub/Videos/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/524e16c6c7644c5fae40a719bf238bff/artifacts
+end_time: 1710343455439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 524e16c6c7644c5fae40a719bf238bff
+run_name: able-grouse-958
+run_uuid: 524e16c6c7644c5fae40a719bf238bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710343444688
+status: 3
+tags: []
+user_id: aiyub

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aiyub/Videos/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/2356bcf8ab6a4ad4bd5415451e8b2f63/artifacts
+end_time: 1710394961045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2356bcf8ab6a4ad4bd5415451e8b2f63
+run_name: honorable-snail-213
+run_uuid: 2356bcf8ab6a4ad4bd5415451e8b2f63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710394950689
+status: 3
+tags: []
+user_id: aiyub

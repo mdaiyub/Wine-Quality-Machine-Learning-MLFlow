@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aiyub/Videos/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/4cb2002bfc9a42c687f66124cf6fd0f4/artifacts
+end_time: 1710343572613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cb2002bfc9a42c687f66124cf6fd0f4
+run_name: redolent-gull-472
+run_uuid: 4cb2002bfc9a42c687f66124cf6fd0f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710343563157
+status: 3
+tags: []
+user_id: aiyub
