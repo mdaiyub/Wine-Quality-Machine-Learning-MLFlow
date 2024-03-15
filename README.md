@@ -22,7 +22,6 @@ Clone the repository
 
 ```bash
 https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
-ngrok authtoken 2aALUybQkHSEa9V8W9LpQl6EFmi_7VeHRMStofLaao2YhKuXr && ngrok http 8080
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -48,7 +47,8 @@ python app.py
 
 Now,
 ```bash
-open up you local host and port
+ngrok authtoken 2aALUybQkHSEa9V8W9LpQl6EFmi_7VeHRMStofLaao2YhKuXr && ngrok http 8080
+
 ```
 
 
