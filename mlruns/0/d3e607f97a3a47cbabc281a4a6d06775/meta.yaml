@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aiyub/Videos/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/d3e607f97a3a47cbabc281a4a6d06775/artifacts
+end_time: 1710476365280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3e607f97a3a47cbabc281a4a6d06775
+run_name: dashing-mink-930
+run_uuid: d3e607f97a3a47cbabc281a4a6d06775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710476358637
+status: 3
+tags: []
+user_id: aiyub
